@@ -1,0 +1,26 @@
+body {
+  font-family: 'Raleway', sans-serif;
+}
+header h1 {
+  text-align: center;
+}
+
+main {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.profile-pic {
+  float: left;
+  display: block;
+}
+
+.contact-info {
+  float: left;
+  margin-left: 10px;
+
+}
+.education {
+  clear: both;
+  padding-top: 10px;
+}
